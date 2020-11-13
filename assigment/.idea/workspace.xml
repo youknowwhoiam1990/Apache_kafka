@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="696f6f37-c336-4765-be3b-e7179f7c4ae3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1kE208Ki6wQUg48zWXx0dnPnwQc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="696f6f37-c336-4765-be3b-e7179f7c4ae3" name="Default Changelist" comment="" />
+      <created>1605251208070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605251208070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="330" key="#GOROOT" timestamp="1605251481941">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="515" y="330" key="#GOROOT/65.24.1301.744@65.24.1301.744" timestamp="1605251481940" />
+    <state x="180" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605263933150">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="180" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1301.744@65.24.1301.744" timestamp="1605263933150" />
+    <state x="410" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605271247651">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="410" y="185" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1301.744@65.24.1301.744" timestamp="1605271247651" />
+    <state x="445" y="311" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605250646756">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="445" y="311" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/65.24.1301.744@65.24.1301.744" timestamp="1605250646756" />
+  </component>
+</project>
